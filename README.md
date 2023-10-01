@@ -1,4 +1,4 @@
-# Industrial Copper Modeling Project
+# Industrial Copper Modeling Project ⚙
 
 ## Introduction
 This project, titled "Industrial Copper Modeling," is an application of data analysis and machine learning techniques to address challenges in the copper industry. It involves building predictive models for both regression (predicting Selling Price) and classification (predicting the success or failure of leads), as well as creating an interactive web application using Streamlit for model deployment.
