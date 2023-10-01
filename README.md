@@ -4,7 +4,6 @@
 This project, titled "Industrial Copper Modeling," is an application of data analysis and machine learning techniques to address challenges in the copper industry. It involves building predictive models for both regression (predicting Selling Price) and classification (predicting the success or failure of leads), as well as creating an interactive web application using Streamlit for model deployment.
 
 ![Screenshot (374)](https://github.com/Sukumar9944/Industrial-Copper-Modeling/assets/132226144/3c419fbe-8e81-4799-b2ca-0ca3fefd9522)
-![Screenshot (373)](https://github.com/Sukumar9944/Industrial-Copper-Modeling/assets/132226144/11f2b530-041a-457c-8fcd-da8314e04db7)
 
 ## Approach
 - Data Understanding:
@@ -25,6 +24,8 @@ This project, titled "Industrial Copper Modeling," is an application of data ana
 - Create an interactive Streamlit web application.
 - Accept input data and perform necessary feature engineering.
 - Display predictions for Selling Price or Status (Won/Lost).
+
+![Screenshot (373)](https://github.com/Sukumar9944/Industrial-Copper-Modeling/assets/132226144/11f2b530-041a-457c-8fcd-da8314e04db7)
 
 ## Getting Started
 Dependencies
